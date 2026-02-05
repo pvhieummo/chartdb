@@ -51,7 +51,7 @@ const ExamplesPageComponent: React.FC = () => {
     return (
         <>
             <Helmet>
-                <title>ChartDB - Example Database Diagrams & Schemas</title>
+                <title>DBML.dev - Example Database Diagrams & Schemas</title>
             </Helmet>
             <section className="flex w-screen flex-col bg-background">
                 <nav className="flex h-12 flex-row items-center justify-between border-b px-4">
